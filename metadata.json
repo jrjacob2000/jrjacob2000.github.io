@@ -1,0 +1,5 @@
+{
+  "name": "JRJacob Financial Application Suite",
+  "description": "Central application portal and interactive launcher for JRJacob's financial management suite: GraceBooks Church Financial Tracker, CapitalFlow Personal Expense & Savings Ledger, and Clan E-Fund Collaborative Emergency Ledger.",
+  "requestFramePermissions": []
+}
