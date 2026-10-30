@@ -66,6 +66,8 @@ export const APPLICATIONS: ApplicationItem[] = [
     category: 'Ministry Finance',
     liveUrl: 'https://jrjacob2000.github.io/Grace-Book/',
     repoUrl: 'https://github.com/jrjacob2000/Grace-Book',
+    privacyUrl: 'https://jrjacob2000.github.io/Grace-Book/privacy.html',
+    termsUrl: 'https://jrjacob2000.github.io/Grace-Book/terms.html',
     storageEngine: 'Google Drive JSON Storage',
     cadence: 'Weekly Collections & Monthly Board Cycles',
     primaryAudience: 'Church Treasurers, Finance Committees & Ministry Boards',

@@ -355,21 +355,17 @@ export default function App() {
           <div>JRJacob Applications · jrjacob2000.github.io</div>
           <div className="flex items-center gap-4">
             <a
-              href="https://jrjacob2000.github.io/Capital-Flow/privacy.html"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="./privacy.html"
               className="hover:text-slate-900 transition-colors whitespace-nowrap"
             >
-              CapitalFlow Privacy
+              Privacy Policy
             </a>
             <span aria-hidden="true">·</span>
             <a
-              href="https://jrjacob2000.github.io/Capital-Flow/terms.html"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="./terms.html"
               className="hover:text-slate-900 transition-colors whitespace-nowrap"
             >
-              CapitalFlow Terms
+              Terms of Service
             </a>
           </div>
         </div>
